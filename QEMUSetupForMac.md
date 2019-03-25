@@ -8,6 +8,7 @@ Install QEMU before you install the Android SDK, in this way, the Android SDK au
 You can validate successful QEMU installation by looking for the following folder in the HOMEBREW path.
 `/usr/local/Cellar/`
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 [image:8D49E050-7A1D-4AD2-8DBD-02A4EBBB6F0B-71043-00001F3756598A11/Screenshot 2019-03-25 at 8.55.48 AM.png]
 
 ## Step 2: Append QEMU path in the environment variables
